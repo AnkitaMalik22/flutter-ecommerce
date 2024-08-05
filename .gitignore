@@ -1,0 +1,24 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+.vscode/
+build/
+**/build/
+**/derived_data/
+**/.dart_tool/
+.pub-cache/
+.pub/
+.symlinks/
+.DS_Store
+.pdm/
+.history/
+.flutter/
+packages.lock
+
+# Obsolete, but should be kept for a while
+.pub/deps/debug/
+.pub/deps/release/
